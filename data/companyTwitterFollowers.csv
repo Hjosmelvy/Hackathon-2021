@@ -1,0 +1,781 @@
+twitterAccountIds,twitterAccountNames,companyNames,followerCount,foramattedFollowerCount
+20793816,Amazon,Amazon.com,3548063,3.55M followers
+13298072,tesla,Tesla,7139940,7.14M followers
+380749300,apple,Apple,5905984,5.91M followers
+415859364,Nike,Nike,8342210,8.34M followers
+74286565,Microsoft,Microsoft,9227632,9.23M followers
+2425151,facebook,Facebook,13310930,13.3M followers
+16573941,netflix,Netflix,10537256,10.5M followers
+67418441,Disney,The Walt Disney Company,7140825,7.14M followers
+1545994664,bmw,BMW,2173196,2.17M followers
+20536157,Google,Google,22648358,22.6M followers
+30973,Starbucks,Starbucks,10941968,10.9M followers
+19103481,uber,Uber,1049089,1.05M followers
+326359913,CHANEL,Chanel,13184459,13.2M followers
+23085995,Nestle,Nestl�,271509,272K followers
+294120449,siemens,Siemens,192826,193K followers
+15569613,LiquidWeb,Liquid Web,26466,26.5K followers
+18994444,IBM,IBM,610818,611K followers
+178962098,sony_jpn,Sony,117248,117K followers
+274673392,Chase,JPMorgan Chase,384919,385K followers
+45550539,Stellantis,Stellantis,80483,80.5K followers
+1218566827,IKEANederland,Ikea,32539,32.5K followers
+20457806,JNJNews,Johnson & Johnson,215174,215K followers
+56488059,pfizer,Pfizer,372457,372K followers
+14140913,MarriottIntl,Marriott International,427426,427K followers
+109224937,Unilever,Unilever,229261,229K followers
+15676492,Ford,Ford Motor,1275995,1.28M followers
+109465291,samsungtomorrow,Samsung Electronics,110034,110K followers
+14620190,ATT,AT&T,905420,905K followers
+37890617,Loreal,L'Or�al,127413,127K followers
+23314228,thalesgroup,Thales,76193,76.2K followers
+10194682,accenture,Accenture,509956,510K followers
+558606074,LVMH,LVMH,129892,130K followers
+21346619,PepsiCo,Pepsico,347468,347K followers
+20663500,shell,Royal Dutch Shell,552695,553K followers
+26787673,CocaCola,Coca-Cola,3315625,3.32M followers
+34743251,spacex,SpaceX,14136912,14.1M followers
+1178011,WellsFargo,Wells Fargo,322456,322K followers
+1174604281804029952,AlibabaTalk,Alibaba Group,55,55 followers
+27025414,ProcterGamble,P&G,216380,216K followers
+54502344,MercedesBenz,Mercedes-Benz,3597363,3.6M followers
+14399483,hm,H&M,8181645,8.18M followers
+71026122,McDonalds,McDonald's,3737730,3.74M followers
+61193820,CarrefourFrance,Carrefour,102498,102K followers
+15749983,Cisco,Cisco,713451,713K followers
+267399199,generalelectric,GE,451305,451K followers
+4910435500,DanoneGroup,Danone,47,47 followers
+25103967,Boeing,Boeing,604900,605K followers
+33612317,salesforce,Salesforce.com,531773,532K followers
+17230018,Spotify,Spotify,3983929,3.98M followers
+17137891,Walmart,Walmart,1222829,1.22M followers
+20815041,roche,Roche,228030,228K followers
+20536157,Google,Alphabet Inc,22648358,22.6M followers
+19701628,BBC,BBC,1790141,1.79M followers
+771517543,SanofiFR,Sanofi,25249,25.2K followers
+10850192,GM,GM,756791,757K followers
+809273,oracle,Oracle,777729,778K followers
+58561993,Dell,Dell Technologies,748115,748K followers
+98047213,Huawei,Huawei Technologies,5743486,5.74M followers
+79320096,citi,Citigroup,912640,913K followers
+819791,Philips,Philips,339541,340K followers
+1648024394,BP_plc,BP,102923,103K followers
+41330603,DeutscheBank,Deutsche Bank,679344,679K followers
+36665547,exxonmobil,ExxonMobil,325241,325K followers
+14462907,Infosys,Infosys,430663,431K followers
+158129535,UPS,UPS,248825,249K followers
+108637793,zywave,Zywave,3265,"3,265 followers"
+100004577,Orange_France,Orange,178607,179K followers
+14219877,toyota,Toyota Motor,815905,816K followers
+348379865,Dior,Groupe Christian Dior,8257302,8.26M followers
+952293073,FedExHelp,FedEx,55074,55.1K followers
+42712551,AmericanExpress,American Express,858085,858K followers
+5162861,NintendoAmerica,Nintendo,11085959,11.1M followers
+466341559,VodafoneGroup,Vodafone Group,33328,33.3K followers
+746142826082119680,NissanMotorCo,Nissan Motor,53,53 followers
+5383942,gsk,GSK,216235,216K followers
+14109159,Capgemini,Capgemini,122010,122K followers
+30018058,PayPal,PayPal,682342,682K followers
+37916167,marksandspencer,Marks and Spencer Group,608081,608K followers
+12637732,Daimler,Daimler,70318,70.3K followers
+16144151,Groupe_Renault,Renault,134715,135K followers
+409367117,BNPParibas_com,BNP Paribas,333,333 followers
+46186400,sephora,Sephora,2332347,2.33M followers
+295325513,LEGO_Group,Lego,769499,769K followers
+207507805,BofA_News,Bank of America,461571,462K followers
+5920532,delta,Delta Air Lines,1588612,1.59M followers
+15790423,asos,Asos,1079075,1.08M followers
+51801586,ABBgroupnews,ABB,159513,160K followers
+346742249,ZARA,Zara,1345242,1.35M followers
+16913418,gucci,Gucci,6086587,6.09M followers
+59900894,zalando,Zalando,24481,24.5K followers
+159095545,MDLZ_BR,Mondelez International,6086,"6,086 followers"
+62465691,AstraZeneca,AstraZeneca,232072,232K followers
+923539988381388800,ABInBevNews,AB InBev,113,113 followers
+66780587,awscloud,Amazon Web Services,1880459,1.88M followers
+150740603,3MNews,3M,213487,213K followers
+24727891,nokia,Nokia,2163582,2.16M followers
+180505807,instagram,Instagram,34826864,34.8M followers
+393757140,SchneiderElec,Schneider Electric,59844,59.8K followers
+2502801,TCS_News,Tata Consultancy Services,35118,35.1K followers
+142294033,AXA,Axa,85246,85.2K followers
+88697269,ENGIEgroup,Engie,64095,64.1K followers
+17226612,Novartis,Novartis,285383,285K followers
+22536055,americanair,American Airlines,1603673,1.6M followers
+19404869,AECOM,Aecom,80695,80.7K followers
+70915740,Allianz,Allianz SE,48308,48.3K followers
+122473388,cvshealth,CVS Health,61605,61.6K followers
+14390109,Wipro,Wipro,491111,491K followers
+2882830973,SainsburysPR,Sainsbury's,242,242 followers
+43430484,Honda,Honda Motor,1041755,1.04M followers
+17193794,HP,HP Inc.,1096502,1.1M followers
+14861876,amd,AMD,968819,969K followers
+4195056088,CMA_CGM_Group,CMA CGM,60,60 followers
+61559439,nvidia,Nvidia,1693856,1.69M followers
+300360969,Marsglobal,Mars,31277,31.3K followers
+24648511,atvibliz,Activision Blizzard,299,299 followers
+162618359,redbullAustria,Red Bull,18279,18.3K followers
+267939430,kpmg,KPMG,406244,406K followers
+360054369,AbbottNews,Abbott,105499,105K followers
+76117579,SAP,SAP,278429,278K followers
+31444922,dominos,Domino's Pizza,1335908,1.34M followers
+14791918,HomeDepot,Home Depot,402789,403K followers
+871786529798197248,jdsportsfashion,JD Sports Fashion,1452,"1,452 followers"
+494422173,OpticWhite,Colgate-Palmolive,17876,17.9K followers
+47459700,Burberry,Burberry,8257559,8.26M followers
+17307429,lenovo,Lenovo,690908,691K followers
+64764487,honeywell,Honeywell,58501,58.5K followers
+57016932,Porsche,Porsche AG,1910571,1.91M followers
+1123786583331803136,Warnerbrosent,WarnerMedia Studios & Networks Group,102,102 followers
+233868627,Diageo_News,Diageo,44190,44.2K followers
+253167239,goldmansachs,Goldman Sachs,829423,829K followers
+212350063,LGUS,LG Electronics,390698,391K followers
+54256156,MichelinTyres,Michelin,72129,72.1K followers
+79962986,Total,Total,831724,832K followers
+118750085,bt_uk,BT Group,118479,118K followers
+290081566,EsteeLauder,Estee Lauder Companies,416742,417K followers
+1410302630,Dyson,Dyson,75503,75.5K followers
+235322186,blackstone,Blackstone Group,99516,99.5K followers
+84281104,creditsuisse,Credit Suisse,358409,358K followers
+727662488,TataMotors,Tata Motors,193893,194K followers
+70001932,EYnews,EY,313380,313K followers
+10228272,YouTube,YouTube,72832766,72.8M followers
+19186720,WPP,WPP Group,131227,131K followers
+14922225,ubisoft,Ubisoft Entertainment,8321217,8.32M followers
+522701657,zoom_us,Zoom Video Communications,1090078,1.09M followers
+92224801,deutschetelekom,Deutsche Telekom,79156,79.2K followers
+19923144,NBA,NBA,32143907,32.1M followers
+23950845,AFKL,Air France KLM,488,488 followers
+63786611,Adobe,Adobe,685778,686K followers
+1088152506306347008,ihg,Intercontinental Hotels Group,8205,"8,205 followers"
+188886565,societegenerale,Societe Generale,65111,65.1K followers
+16584443,USAA,USAA,122557,123K followers
+18726666,JohnDeere,John Deere,193329,193K followers
+101775528,Zurich,Zurich Insurance Group,52096,52.1K followers
+23967651,heb,HEB Grocery Company,270101,270K followers
+377228272,xiaomi,Xiaomi,2540397,2.54M followers
+46327638,IBM_JAPAN,IBM Japan,24930,24.9K followers
+783214,twitter,Twitter,58963410,59M followers
+23756134,blackrock,BlackRock,431167,431K followers
+191076590,navalgroup,Naval Group,18273,18.3K followers
+38676903,easyJet,EasyJet,540677,541K followers
+42871498,lockheedmartin,Lockheed Martin,445002,445K followers
+35961145,merck,Merck,202055,202K followers
+34675715,CBRE,CBRE Group,132531,133K followers
+1542862735,Ryanair,Ryanair,493321,493K followers
+52846066,Medtronic,Medtronic,76031,76K followers
+20523846,riotgames,Riot Games,2196134,2.2M followers
+36119482,americamovil,America Movil,249,249 followers
+50883209,puma,Puma,1688384,1.69M followers
+20793816,amazon,Amazon France,3548183,3.55M followers
+278962979,Petronasbrands,Petronas,134281,134K followers
+124476322,lufthansa,Lufthansa,490350,490K followers
+195658349,7ElevenMy,7-Eleven Malaysia,193,193 followers
+19709040,ebay,eBay,735479,735K followers
+78664167,MagnaInt,Magna International,10624,10.6K followers
+268267143,EDFofficiel,EDF,60308,60.3K followers
+96184837,UniqloUSA,Uniqlo,89434,89.4K followers
+101595798,arcelormittal,ArcelorMittal,42590,42.6K followers
+307914283,HEINEKENCorp,Heineken,4903,"4,903 followers"
+290012052,SAFRAN,Safran,84792,84.8K followers
+454213077,KelloggCompany,Kellogg,76177,76.2K followers
+531892451,abbvie,AbbVie,68356,68.4K followers
+1630182978,Primark,Primark,256076,256K followers
+57947109,Flipkart,Flipkart.com,2608568,2.61M followers
+49881357,Saudi_Aramco,Aramco,2354548,2.35M followers
+21021891,Chevron,Chevron,374276,374K followers
+917104380,UnitedHealthGrp,UnitedHealth Group,35392,35.4K followers
+38186660,discoverRB,Reckitt Benckiser,19655,19.7K followers
+759251,CNN,CNN,52340803,52.3M followers
+89084561,target,Target,2116329,2.12M followers
+364477412,capitalone,Capital One Financial,189170,189K followers
+41062336,TUIGroup,TUI Group,43947,43.9K followers
+309285803,VisaNews,Visa,107671,108K followers
+15687962,Marvel,Marvel Entertainment,9969666,9.97M followers
+19638600,scotiabank,Scotiabank,102333,102K followers
+2838220979,RappiColombia,Rappi,38910,38.9K followers
+4283111536,hjheinzcompany,Kraft Heinz,6,6 followers
+18033062,umg,Universal Music Group,608216,608K followers
+75014376,MasterCard,MasterCard,479258,479K followers
+185728888,TMobileHelp,T-Mobile,403752,404K followers
+191781601,Barclays,Barclays,290868,291K followers
+227460252,HyattsofChicago,Hyatt,2201,"2,201 followers"
+1338764380624871424,BATPress,British American Tobacco,14,14 followers
+111291091,publicisgroupe,Publicis Groupe,76305,76.3K followers
+183230213,Hdfc_Bank,HDFC Bank,442925,443K followers
+13058772,LinkedIn,Linkedin,1561402,1.56M followers
+126118683,AIGinsurance,AIG,42370,42.4K followers
+18363030,fourseasons,Four Seasons Hotels and Resorts,273829,274K followers
+38237581,UBS,UBS,526128,526K followers
+164641631,basf,BASF,81151,81.2K followers
+1606309392,Faurecia,Faurecia,20579,20.6K followers
+84623395,qualcomm,Qualcomm,436666,437K followers
+853154382333919232,Gamesa_Official,Siemens Gamesa Renewable Energy,19,19 followers
+141114041,MaxisListens,Maxis,150862,151K followers
+1543672171,SodexoGroup,Sodexo,7929,"7,929 followers"
+3597126195,Disney_ParisEN,Disneyland Paris,0,0 followers
+426159377,MorganStanley,Morgan Stanley,587436,587K followers
+179015119,merckgroup,Merck KGaA,20222,20.2K followers
+271986064,tesco,Tesco,622368,622K followers
+246196403,bancosantander,Santander,79097,79.1K followers
+253340062,singaporeair,Singapore Airlines,742935,743K followers
+14589119,qatarairways,Qatar Airways,1634959,1.63M followers
+20590436,lisalaposte,Groupe La Poste,47933,47.9K followers
+14526582,RBC,RBC,101900,102K followers
+307826219,MahindraRise,Mahindra & Mahindra,1313450,1.31M followers
+7587032,SkyNews,Sky,6869256,6.87M followers
+50393521,LeviStraussCo,Levi Strauss & Co,16035,16K followers
+28785486,ABC,ABC News,16417334,16.4M followers
+54904679,aircanada,Air Canada,517347,517K followers
+16017996,RaytheonTech,Raytheon Technologies,185343,185K followers
+15101714,caterpillarinc,Caterpillar,138027,138K followers
+323319539,lamborghini,Lamborghini,1993126,1.99M followers
+978667564074139648,nubankbrasil,Nubank,439,439 followers
+16238220,INEOS,Ineos,19612,19.6K followers
+39801655,atos,Atos,34014,34K followers
+73175291,Naturacosmetica,Natura & Co,1271,"1,271 followers"
+89587925,comcast,Comcast,176967,177K followers
+380801406,Maersk,Maersk,90845,90.8K followers
+19548426,Henkel,Henkel AG & Co.,20647,20.6K followers
+309728693,GileadSciences,Gilead Sciences,65932,65.9K followers
+15225275,MACcosmetics,MAC Cosmetics,1539144,1.54M followers
+19106719,MAS,Malaysia Airlines,1764963,1.76M followers
+1067043537571713025,Allianz_Tech,Allianz Technology,177,177 followers
+95310018,dbsbank,DBS Group,29732,29.7K followers
+34395888,RalphLauren,Ralph Lauren,2301486,2.3M followers
+30626664,avivaplc,Aviva,19553,19.6K followers
+18974329,panasonic,Panasonic,63460,63.5K followers
+168743277,Valeo_Group,Valeo,34652,34.7K followers
+2744744882,Glovo_ES,Glovo,23534,23.5K followers
+98458823,Mattel,Mattel,191594,192K followers
+22919665,AirAsia,AirAsia Berhad,3304185,3.3M followers
+599512903,LoblawsON,Loblaw Companies,22571,22.6K followers
+65174274,Fidelity,Fidelity,276468,276K followers
+130407919,Kia_Korea,Kia Motors,398,398 followers
+51406202,Tech_Mahindra,Tech Mahindra,124693,125K followers
+1659759481,glencorexstrata,Glencore,52,52 followers
+950136756,urw_group,Unibail-Rodamco-Westfield,3889,"3,889 followers"
+58354465,stanchart,Standard Chartered,81748,81.7K followers
+356724749,ANZ_Newsroom,ANZ Bank,17112,17.1K followers
+432383685,Amundi_FR,Amundi,10003,10K followers
+508433315,LazadaMY,Lazada Group,41437,41.4K followers
+23114836,UnderArmour,Under Armour,951057,951K followers
+78838650,lidl,Lidl,47544,47.5K followers
+23085995,Nestle,Nestl� Malaysia,271509,272K followers
+14472978,riotinto,Rio Tinto,71112,71.1K followers
+17365848,Expedia,Expedia Group,422219,422K followers
+300878069,hersheys,The Hershey Company,255256,255K followers
+164365459,Bridgestone,Bridgestone,102983,103K followers
+14787749,commbank,Commonwealth Bank,93923,93.9K followers
+123065047,edfenergy,EDF Energy,42827,42.8K followers
+1703704490,HUL_News,Hindustan Unilever,99077,99.1K followers
+27069754,AdeccoGroup,Adecco Group,16930,16.9K followers
+69687111,cognizant,Cognizant,759717,760K followers
+224410857,Teleperformance,Teleperformance,20169,20.2K followers
+95687779,veolia,Veolia,34261,34.3K followers
+16193578,victoriassecret,Victoria's Secret,10743870,10.7M followers
+111659710,ing_news,ING,44470,44.5K followers
+3394332935,DisneyPictures,The Walt Disney Studios,490,490 followers
+61096565,GentingMalaysia,Genting Malaysia,1029,"1,029 followers"
+398100006,cevalogistics,Ceva Logistics,13744,13.7K followers
+1625765664,commerzbank,Commerzbank,15954,16K followers
+36178069,Cargill,Cargill,57058,57.1K followers
+17475575,BestBuy,Best Buy,1148236,1.15M followers
+14427317,Bombardier,Bombardier,141842,142K followers
+2193361428,ASUSPressRoom,Asus,1206,"1,206 followers"
+16905485,amwayus,Amway,73960,74K followers
+226481275,gojekindonesia,GoJek,973944,974K followers
+102323621,astonmartin,Aston Martin,1352016,1.35M followers
+388685696,AIAGroupLimited,AIA Group,155,155 followers
+15383636,VANS_66,Vans,1289006,1.29M followers
+28384755,Forever21,Forever 21,1996092,2M followers
+1161348136729661441,viacom,ViacomCBS,83,83 followers
+6449282,jetblue,JetBlue,1935239,1.94M followers
+1172849736,KrogerCo,Kroger,1698,"1,698 followers"
+166793353,ocbcbank,OCBC Bank,19084,19.1K followers
+167562319,bnymellon,BNY Mellon,33222,33.2K followers
+11018442,pizzahut,Pizza Hut,1622022,1.62M followers
+87984807,BentleyMotors,Bentley Motors,1122882,1.12M followers
+2422416145,SaintGobainNews,Saint-Gobain,1,1 follower
+15891115,warnermusic,Warner Music Group,557227,557K followers
+960653964,oppo,Oppo,716743,717K followers
+807095,nytimes,New York Times Company,49003486,49M followers
+144792607,paytm,Paytm,978677,979K followers
+2865671254,KeringGroup,Kering,28861,28.9K followers
+15234657,EA,EA - Electronic Arts,6032086,6.03M followers
+14275290,Allstate,Allstate,85421,85.4K followers
+274941650,tuSEAT,Seat,123018,123K followers
+372738387,colruyt,Colruyt,7132,"7,132 followers"
+1907251195,pos4you,Pos Malaysia,46397,46.4K followers
+211088368,DeloitteFrance,Deloitte US,32046,32K followers
+18481641,lacoste,Lacoste,996260,996K followers
+19398874,orangebusiness,Orange Business Services,111364,111K followers
+465958107,avonworldwide,Avon Products,27606,27.6K followers
+207686162,GapInc,Gap,13027,13K followers
+12092012,VMware,VMware,322799,323K followers
+197352549,DeutschePostDHL,Deutsche Post DHL,41854,41.9K followers
+19583545,lfc,Liverpool FC,16369789,16.4M followers
+569841748,lloydsbankinggp,Lloyds Banking Group,282,282 followers
+151233724,KCCorp,Kimberly-Clark,29073,29.1K followers
+727448203180822528,IQVIA_global,Iqvia,11765,11.8K followers
+16043308,ChickfilA,Chick-fil-A,1121118,1.12M followers
+19336500,lowes,Lowe's Companies,281345,281K followers
+847440622898208770,BHInc,Baker Hughes,117,117 followers
+34010976,bmsnews,Bristol-Myers Squibb,148994,149K followers
+26516576,bookingcom,Booking.com,172295,172K followers
+2446008612,ABOUTYOUDE,About You,2332,"2,332 followers"
+750751206427860992,MarvelStudios,Marvel Studios,4819871,4.82M followers
+176355348,airtelindia,Bharti Airtel,1238769,1.24M followers
+430038426,GroupEcobank,Ecobank,36621,36.6K followers
+50380676,ARAMARK,Aramark,18281,18.3K followers
+22152077,Aon_plc,Aon,38824,38.8K followers
+15392391,kfc,KFC,1468759,1.47M followers
+1280469980,johnsoncontrols,Johnson Controls,27856,27.9K followers
+36144455,royalcaribbean,Royal Caribbean Group,289339,289K followers
+599689553,DXCTechnology,DXC Technology,33054,33.1K followers
+19992977,adp,ADP,47641,47.6K followers
+1116007241608351744,KPShare,Kaiser Permanente,36,36 followers
+92391733,BDandCo,BD,10756,10.8K followers
+64481865,hcahealthcare,HCA,14505,14.5K followers
+171467652,Richemont_SA,Richemont,121,121 followers
+270453413,allianzfrance,Allianz France,61819,61.8K followers
+212332850,landrover,Jaguar Land Rover,825479,825K followers
+19017255,ericsson,Ericsson,266906,267K followers
+40148479,WhatsApp,WhatsApp,3266281,3.27M followers
+213617466,comparethemkt,Comparethemarket.com,8191,"8,191 followers"
+288290125,Halliburton,Halliburton,59563,59.6K followers
+1633641932,AirbusDS,Airbus Defence & Space,215,215 followers
+183541994,TheBodyShopIND,The Body Shop,86524,86.5K followers
+317667517,alptis,Alptis,922,922 followers
+15131310,wholefoods,Whole Foods Market,4320260,4.32M followers
+15141406,Mercadolibre,Mercadolibre,154059,154K followers
+15091022,StateFarm,State Farm,104439,104K followers
+22096532,jtccorp,JTC Corporation,491,491 followers
+15840909,NorthropGrumman,Northrop Grumman,226582,227K followers
+125310029,RicohJapan,Ricoh,281,281 followers
+224168895,Morrisons,Morrisons,331382,331K followers
+1664721896,oyorooms,OYO Rooms,63919,63.9K followers
+47911050,LafargeHolcim,LafargeHolcim,40521,40.5K followers
+521029051,LazadaPH,Lazada Philippines,98119,98.1K followers
+8806412,fnac,Fnac Darty,380591,381K followers
+1001778097,MTNGroup,MTN,16790,16.8K followers
+14601237,baskinrobbins,Baskin-Robbins,191595,192K followers
+41135906,dicks,Dick's Sporting Goods,363155,363K followers
+19032584,eatoncorp,Eaton,32449,32.4K followers
+3401369909,suezenv,Suez,14,14 followers
+244582161,thesmartgrid,Green Energy,856,856 followers
+21660884,Nespresso,Nestl� Nespresso,98716,98.7K followers
+3277543099,WellPoint,Anthem,74,74 followers
+17288348,WhirlpoolCorp,Whirlpool,30204,30.2K followers
+1006383312,AllianceBoots,Walgreens Boots Alliance,432,432 followers
+78661839,MetLife,MetLife,54819,54.8K followers
+821045162,emirates,Emirates Airline,1437372,1.44M followers
+6287982,Altran,Altran,39726,39.7K followers
+18332190,british_airways,British Airways,1337433,1.34M followers
+309366491,twitch,Twitch,7945975,7.95M followers
+46328741,waitrose,Waitrose & Partners,346769,347K followers
+144976668,tupperwareww,Tupperware Brands,45478,45.5K followers
+819617227,AngloAmericanBR,Anglo American,30014,30K followers
+90774609,TiffanyAndCo,Tiffany & Co,1633075,1.63M followers
+2557521,espn,ESPN,36404700,36.4M followers
+222249603,bmo,BMO Financial Group,53627,53.6K followers
+980145571,AdaniOnline,Adani,176206,176K followers
+18506925,fiserv,Fiserv,21921,21.9K followers
+93673287,NBCUniversal,NBCUniversal,38675,38.7K followers
+1083397305796042752,knlogistics,Kuehne+Nagel,22,22 followers
+131109249,AirLiquidenergy,Air Liquide,5857,"5,857 followers"
+28436760,amgen,Amgen,96227,96.2K followers
+32977536,GRUPOACSnews,ACS Group,2757,"2,757 followers"
+37687077,cigna,Cigna,50215,50.2K followers
+5894902,Ogilvy,Ogilvy,315744,316K followers
+16188518,Aetna,Aetna,53290,53.3K followers
+2461256222,jllnews,JLL,246,246 followers
+260907612,united,United Airlines,1082129,1.08M followers
+104163289,axaim,Axa IM,4557,"4,557 followers"
+15956519,hcltech,HCL Technologies,442130,442K followers
+182548490,fluorcorp,Fluor,16331,16.3K followers
+338933367,leveranciersASW,A.S. Watson Group,100,100 followers
+2270841,abnamro,ABN Amro,76348,76.3K followers
+402156231,XPOLogistics,XPO Logistics,13753,13.8K followers
+242185470,allianz_au,Allianz Australia,2419,"2,419 followers"
+139687250,AmadeusITGroup,Amadeus,30423,30.4K followers
+50687788,Macys,Macy's,910696,911K followers
+884794020,Deliveroo,Deliveroo,64462,64.5K followers
+44572060,Infineon,Infineon Technologies,11823,11.8K followers
+106710681,etisalat,Etisalat,2100970,2.1M followers
+16808626,bbva,BBVA - Banco Bilbao Vizcaya Argentaria,2513648,2.51M followers
+29489300,Korn_Ferry,Korn Ferry,34036,34K followers
+97226338,credit_agricole,Credit Agricole,27041,27K followers
+720293443260456960,Trump,The Trump Organization,533661,534K followers
+54149214,flyPAL,Philippine Airlines,3029249,3.03M followers
+68512208,danaher_u,Danaher,483,483 followers
+35773873,boohoo,Boohoo,538755,539K followers
+63679163,Bershka,Bershka,448969,449K followers
+110961135,adeogroup,Adeo,1025,"1,025 followers"
+382248837,SomosLala,Grupo Lala,17274,17.3K followers
+1067474585082359810,rockwellcollins,Collins Aerospace,34,34 followers
+22009780,geico,Geico,67680,67.7K followers
+714441955,blueapron,Blue Apron,56359,56.4K followers
+150757675,WalmartMexico,Walmart de Mexico and Central America,471365,471K followers
+1055108519228334081,HasbroNews,Hasbro,234,234 followers
+117299815,YamahaMotoGP,Yamaha Motor,586641,587K followers
+280557152,generalmills,General Mills,99616,99.6K followers
+169001667,orange_es,Orange Spain,161243,161K followers
+15383592,gehealthcare,GE Healthcare,112713,113K followers
+14686881,westpac,Westpac Group,59295,59.3K followers
+411240061,apolloglobal,Apollo Global Management,1728,"1,728 followers"
+15836048,tysonfoods,Tyson Foods,58193,58.2K followers
+1018439659985125378,Canon_Camera,Canon,38,38 followers
+550293716,labanquepostale,La Banque Postale,54598,54.6K followers
+20437885,ClubMedFR,Club Med,39917,39.9K followers
+372817561,bedbathbeyond,Bed Bath & Beyond,177733,178K followers
+15577098,usbank,US Bank,41691,41.7K followers
+537072585,AbsaSouthAfrica,Absa,141160,141K followers
+13613292,txinstruments,Texas Instruments,88466,88.5K followers
+267698405,SGS_SA,SGS,12630,12.6K followers
+270533441,abercrombie,Abercrombie & Fitch,517289,517K followers
+15735373,toptarif,TopTarif,1557,"1,557 followers"
+50501415,amcorpackaging,Amcor,5539,"5,539 followers"
+16191793,patagonia,Patagonia,499219,499K followers
+15220473,WaltDisneyWorld,Walt Disney World,3234220,3.23M followers
+51983734,adityabirlagrp,Aditya Birla Group,144249,144K followers
+41994925,yesbank,Yes Bank,1680630,1.68M followers
+34437712,telmex,Telmex - Telefonos de Mexico,187271,187K followers
+1088062616,Hyundai_Global,Hyundai Motor,155829,156K followers
+359679944,Mazda_PR,Mazda Motor,130007,130K followers
+962161147,RHBGroup,RHB Banking Group,68549,68.5K followers
+106811268,cemex,Cemex,39418,39.4K followers
+176334376,royalmailgroup,Royal Mail,3971,"3,971 followers"
+24054721,DuPont_News,DuPont,66700,66.7K followers
+293754638,MylanNews,Viatris,12108,12.1K followers
+61636429,telstra,Telstra Corporation,119454,119K followers
+720866927585800192,AeroportsParis,Groupe ADP,0,0 followers
+303513831,bunnings,Bunnings,4669,"4,669 followers"
+48032694,SiemensHealth,Siemens Healthineers,75941,75.9K followers
+142246361,AXA_XL,Axa XL,18182,18.2K followers
+785597715472261120,banamex,CitiBanamex,0,0 followers
+175228284,Grupo_Carso,Grupo Carso,2238,"2,238 followers"
+2193789739,Conti_Press,Continental,2121,"2,121 followers"
+258826759,askcomenity,Comenity Capital Bank,1568,"1,568 followers"
+7212562,SouthwestAir,Southwest Airlines,2130824,2.13M followers
+4112496291,ArianeGroup,ArianeGroup,185702,186K followers
+326698989,canalplus,Canal+,3222408,3.22M followers
+493860480,firmenich,Firmenich,6130,"6,130 followers"
+1635068437,AirbusHC,Airbus Helicopters,198,198 followers
+193175159,protonmsia,Proton,784,784 followers
+18647765,CalvinKlein,Calvin Klein,3719729,3.72M followers
+572929741,zoetis,Zoetis,13537,13.5K followers
+111092283,WeWork,The We Company,112962,113K followers
+82815201,VolkswagenMX,Volkswagen Mexico,1269,"1,269 followers"
+41856486,ASWO,Santander UK,130,130 followers
+815759221,aptiv,Aptiv,17041,17K followers
+114786624,SyngentaUS,Syngenta,42713,42.7K followers
+31176167,ritzcarlton,The Ritz-Carlton Hotel Company,219846,220K followers
+3350062993,optumnews,Optum,0,0 followers
+15872418,ABSCBNNews,ABS CBN,7263363,7.26M followers
+455644930,Pernod_Ricard,Pernod Ricard,19019,19K followers
+151441314,TechnipFMC,TechnipFMC,22595,22.6K followers
+1930146834,IdemiaGroup,Idemia,17558,17.6K followers
+1287644632449343488,ViCustomerCare,Vi,13919,13.9K followers
+136313036,FEMSA,Coca-Cola Femsa,153095,153K followers
+364519719,AudideMexico,Audi Mexico,421486,421K followers
+252024110,AccentureFrance,Accenture France & Benelux,23600,23.6K followers
+270771330,TataCompanies,Tata Group,796778,797K followers
+36568063,wearefarmers,Farmers Insurance Group,45807,45.8K followers
+285498906,Tatasteelltd,Tata Steel,68546,68.5K followers
+66482863,wegmans,Wegmans Food Markets,203390,203K followers
+40263343,VitaminShoppe,Vitamin Shoppe,374656,375K followers
+30470395,BellEnterprise,BCE,147,147 followers
+148872151,McKesson,McKesson,21761,21.8K followers
+17343424,hcsc,HCSC,11055,11.1K followers
+714003800,axisbank,Axis Bank,352356,352K followers
+1046627690579726336,EmiratesNBD,Emirates NBD,309,309 followers
+10671602,playstation,Sony Interactive Entertainment,20993130,21M followers
+16252784,lululemon,Lululemon Athletica,1003524,1M followers
+1027694057978351616,TelevisaDotCom,Grupo Televisa,334,334 followers
+39462076,CGI_Global,CGI Group,20450,20.4K followers
+10503302,Logitech,Logitech,277557,278K followers
+15033883,hulu,Hulu,832066,832K followers
+20123366,asda,Asda,494624,495K followers
+894913471640358913,ALIndiaOfficial,Ashok Leyland,10504,10.5K followers
+884378714,SMTOWNGLOBAL,SM Entertainment,9028860,9.03M followers
+17278807,zapposstyle,Zappos,3903,"3,903 followers"
+269729823,st_world,STMicroelectronics,31868,31.9K followers
+25287206,Beiersdorf_AG,Beiersdorf,3468,"3,468 followers"
+1487268643,CNHIndustrial,CNH Industrial,10404,10.4K followers
+194037150,novonordisk,Novo Nordisk,36804,36.8K followers
+823523768,Sysco,Sysco,14287,14.3K followers
+17169239,harleydavidson,Harley-Davidson,448664,449K followers
+92245322,TAGHeuer,Tag Heuer,413386,413K followers
+63752206,ICICIBank_Care,ICICI Bank,284263,284K followers
+14074493,Kantar,Kantar,42538,42.5K followers
+485747600,Jabil,Jabil,9150,"9,150 followers"
+430501404,smurfitkappa,Smurfit Kappa Group,13118,13.1K followers
+155650832,biogen,Biogen,36365,36.4K followers
+40205617,AirFranceFR,Air France,590945,591K followers
+22030851,footlocker,Foot Locker,1544292,1.54M followers
+817473316067901446,genpact_ltd,Genpact,10,10 followers
+105269099,Falabella_co,Falabella,197382,197K followers
+334032462,flyethiopian,Ethiopian Airlines,395166,395K followers
+15996830,Nielsen,Nielsen Company,197455,197K followers
+27949726,cibc,CIBC,121015,121K followers
+17448575,jcpenney,JC Penney,438491,438K followers
+3014053434,accentureindia,Accenture India,43372,43.4K followers
+15991258,Xerox,Xerox,178383,178K followers
+435079031,valeglobal,Vale,6272,"6,272 followers"
+429724798,NatWestGroup,Natwest Group,72003,72K followers
+67627719,Telcel,Telcel,986122,986K followers
+14412844,thomsonreuters,Thomson Reuters,158064,158K followers
+50991543,skodaweb,�koda Auto,2957,"2,957 followers"
+25082628,copaairlines,Copa Airlines,289063,289K followers
+773069256,FCBayern,Bayern Munich,5271095,5.27M followers
+41765166,DENSOAutoParts,Denso,9771,"9,771 followers"
+278994300,Lindt,Lindt & Sprungli,20932,20.9K followers
+17437735,boehringer,Boehringer Ingelheim,100094,100K followers
+50505691,aeromexico,Aeromexico,1845015,1.85M followers
+256424167,Clt_VoyagesSncf,SNCF,18547,18.5K followers
+16866956,SwissRe,Swiss Re,36824,36.8K followers
+96140805,pncnews,PNC Financial Services,25748,25.7K followers
+30366928,WesternUnion,Western Union,630358,630K followers
+121258930,EpicGames,Epic Games,4203627,4.2M followers
+1860942805,AccionistasCABK,Caixabank,3764,"3,764 followers"
+117789943,StanleyBlkDeckr,Stanley Black & Decker,8016,"8,016 followers"
+145227381,NavyFederal,Navy Federal Credit Union,80971,81K followers
+179965791,pearsonplc,Pearson,12809,12.8K followers
+15544077,ACCIONA,Acciona,143066,143K followers
+67378997,TDBank_US,TD Bank,54126,54.1K followers
+246706290,CA_CIB,Cr�dit Agricole CIB,4078,"4,078 followers"
+20437885,ClubMedFR,LATAM Airlines,39917,39.9K followers
+704881118000971777,fentybeauty,Fenty Beauty,660208,660K followers
+18116716,ShopAshley,Ashley HomeStore,3993,"3,993 followers"
+34042766,McKinsey,McKinsey & Company,421643,422K followers
+633108002,Sonepar_IDF,Sonepar,501,501 followers
+784002792226754560,PPGIndustries,PPG Industries,0,0 followers
+8457092,deloitte,Deloitte Global,522714,523K followers
+827296225955180544,westerndigital,Western Digital,48067,48.1K followers
+17000169,BarrickGold,Barrick Gold,52196,52.2K followers
+190615522,myaccessbank,Access Bank,655821,656K followers
+106086230,YvesRocherFR,Yves Rocher,63569,63.6K followers
+18994003,getolympus,Olympus,37149,37.1K followers
+30180137,tommyhilfiger,Tommy Hilfiger,1589736,1.59M followers
+24160942,humana,Humana,44212,44.2K followers
+29938031,Coles,Coles Group,44403,44.4K followers
+39550624,Chubb,Chubb,27524,27.5K followers
+455979953,RoomsToGo,Rooms To Go,4641,"4,641 followers"
+195702287,MotoSolutions,Motorola Solutions,26169,26.2K followers
+183398746,converse,Converse,1059910,1.06M followers
+87228706,L3HarrisTech,L3Harris,16382,16.4K followers
+250684710,Ecolab,Ecolab,18736,18.7K followers
+500615715,EndesaClientes,Endesa,30501,30.5K followers
+39958022,AutolivInc,Autoliv,1829,"1,829 followers"
+769742234,KKR_Co,KKR,22533,22.5K followers
+48700857,santander_br,Santander Brazil,216640,217K followers
+17000457,Azure,Microsoft Azure,792241,792K followers
+84604038,AllianzIreland,Allianz Ireland,5023,"5,023 followers"
+231213589,fifththird,Fifth Third Bank,38105,38.1K followers
+50446312,BAESystemsInc,BAE Systems,143081,143K followers
+5823652,LCL,LCL,22004,22K followers
+1280966449,JacobsEngineers,Jacobs Engineering,614,614 followers
+28099782,lazardltd,Lazard,461,461 followers
+494939290,Bugatti,Bugatti,641940,642K followers
+86089860,samsclub,Sam's Club,128344,128K followers
+219503405,AMP_au,AMP,8420,"8,420 followers"
+113648092,IKEA_France,Ikea France,32878,32.9K followers
+1098648812745342976,DowChemical,Dow,2,2 followers
+7302852,NAB,National Australia Bank,70645,70.6K followers
+143528416,WalmartCanada,Walmart Canada,129085,129K followers
+3543239896,WTWcorporate,Willis Towers Watson,5872,"5,872 followers"
+2992714875,ADTstaysafe,ADT,0,0 followers
+407983874,askbbt,Truist,3738,"3,738 followers"
+147754408,agilyx,Agilyx,1359,"1,359 followers"
+50591518,AtlasCopcoGroup,Atlas Copco,18874,18.9K followers
+24742040,Xbox,Xbox,15511204,15.5M followers
+13065032,AkzoNobel,AkzoNobel,25921,25.9K followers
+29704444,IBM_France,IBM France,12899,12.9K followers
+558801260,OtisElevatorCo,Otis Elevator,11998,12K followers
+3415377399,CokeCCE,Coca-Cola European Partners,27,27 followers
+747760644989030401,charter,Charter Communications,384,384 followers
+15995266,Concentrix,Concentrix,9759,"9,759 followers"
+46186400,sephora,Sephora USA,2332347,2.33M followers
+92740386,landg_business,Legal & General Group,6205,"6,205 followers"
+17596020,ScaniaGroup,Scania,87840,87.8K followers
+3494032572,Banorte_mx,Banorte,69164,69.2K followers
+80102659,7eleven,7-Eleven US,125245,125K followers
+760109205185564672,Rolex_Official,Rolex,5,5 followers
+720031966259613696,flextronics,Flex,709,709 followers
+82224666,Avagotech,Broadcom,2356,"2,356 followers"
+54983317,workday,Workday,48672,48.7K followers
+11071292,Herbalife,Herbalife Nutrition,330325,330K followers
+17872077,virginmedia,Virgin Media,342494,342K followers
+983265703,accenturesocial,Accenture Interactive,6,6 followers
+62470684,Monoprix,Monoprix,52301,52.3K followers
+382177545,TimHortons,Tim Hortons,657071,657K followers
+33514007,ManpowerGroupJJ,ManpowerGroup,8362,"8,362 followers"
+134887156,fedex,FedEx Express,309746,310K followers
+2252729623,Qantasairways,Qantas Airways,226,226 followers
+431499643,HelloFresh,HelloFresh,37112,37.1K followers
+32399418,allianz_de,Allianz Germany,7597,"7,597 followers"
+773905569249886210,EMCcorp,Dell EMC,4,4 followers
+218570568,urbn_scout,Urban Outfitters,9951,"9,951 followers"
+32358920,leroymerlinfr,Leroy Merlin France,23392,23.4K followers
+20632796,subway,Subway,2306709,2.31M followers
+6245822,LendingClub,LendingClub,27513,27.5K followers
+19617105,flyairnz,Air New Zealand,676517,677K followers
+73355170,indracompany,Indra,30593,30.6K followers
+95624759,Meilleurtauxcom,Meilleurtaux,3638,"3,638 followers"
+46655547,MO_HOTELS,Mandarin Oriental,145522,146K followers
+358252545,ADMupdates,Archer Daniels Midland,6890,"6,890 followers"
+180461338,canadiantire,Canadian Tire,173941,174K followers
+188992903,yamaha_ongakubu,Yamaha,21830,21.8K followers
+388325606,kiewit,Kiewit,12963,13K followers
+1484015923,nnpcgroup,NNPC,335904,336K followers
+53147055,pullandbear,Pull&Bear,372829,373K followers
+236304191,MunichRe,Munich Re,65783,65.8K followers
+986721954030764033,The_Linde_Group,Linde,29,29 followers
+17136315,shopify,Shopify,299468,299K followers
+1156866230,prada,Prada,1325051,1.33M followers
+727870740289101824,ARMCommunity,ARM,70,70 followers
+323259257,SolvayGroup,Solvay,40015,40K followers
+506359364,Vopak_Nederland,Vopak,1664,"1,664 followers"
+468416706,lidlfrance,Lidl France,43166,43.2K followers
+194035289,marinabaysands,Marina Bay Sands,32071,32.1K followers
+87299367,Cummins,Cummins,123867,124K followers
+310259464,AvivaCanada,Aviva Canada,9178,"9,178 followers"
+28824426,AGCOcorp,Agco,46013,46K followers
+441837847,ZF_Group,ZF Friedrichshafen,8423,"8,423 followers"
+331877987,StateStreet,State Street,51318,51.3K followers
+581714778,actionlogement,Action Logement,12579,12.6K followers
+7573792,thenorthface,The North Face,484089,484K followers
+3589925357,TANESCO_,Tanesco,195,195 followers
+72834489,swarovski,Swarovski Group,213872,214K followers
+20536157,google,Google France,22648370,22.6M followers
+59438003,eulerhermes,Euler Hermes,8684,"8,684 followers"
+105531522,Neptune_corp,Neptune Wellness Solutions,2208,"2,208 followers"
+89443197,myntra,Myntra,605422,605K followers
+53543144,okcupid,OkCupid,58074,58.1K followers
+80619946,FISGlobal,FIS,20712,20.7K followers
+3092776893,DPDgroup_news,DPD,9505,"9,505 followers"
+281046179,AerLingus,Aer Lingus,267752,268K followers
+278221207,autozone,AutoZone,39561,39.6K followers
+14219877,toyota,Toyota Motor North America,815905,816K followers
+65392033,liverpoolmexico,El Puerto de Liverpool,705939,706K followers
+2982242111,soprarh,Sopra Steria Group,0,0 followers
+18949610,benandjerrys,Ben & Jerry,502716,503K followers
+2613385747,MicrosoftEU,Microsoft Europe,5149,"5,149 followers"
+11511,acer,Acer,101017,101K followers
+111372861,SherwinWilliams,Sherwin-Williams,144488,144K followers
+1075435564273426432,venteprivee_fr,Veepee,0,0 followers
+82792815,eurofins,Eurofins,3270,"3,270 followers"
+751560747566510081,snap,Snap Inc,64313,64.3K followers
+16695590,vodafone_de,Vodafone Germany,83705,83.7K followers
+14277701,meijer,Meijer,67444,67.4K followers
+19659769,acehardware,Ace Hardware,137286,137K followers
+198500394,SCOR_SE,Scor,4112,"4,112 followers"
+6975832,TELUS,Telus,128899,129K followers
+245549284,GroupeBPCE,BPCE,21919,21.9K followers
+4404600742,G4S_UK,G4S,11,11 followers
+1123628780545880064,newmont,Newmont Goldcorp,22,22 followers
+58806915,servier,Laboratoire Servier,5018,"5,018 followers"
+838165214,CI_Orange,Orange Cote d�Ivoire,96513,96.5K followers
+3511605017,GetafeCF,Getafe CF,137642,138K followers
+17536922,canadapostcorp,Canada Post,43864,43.9K followers
+7831092,tacobell,Taco Bell,1960747,1.96M followers
+2216675940,MGMResortsIntl,MGM Resorts International,66855,66.9K followers
+11399812,Electrolux,Electrolux,53870,53.9K followers
+17137891,Walmart,Walmart US,1222829,1.22M followers
+14754359,fcbglobal,FCB,54047,54K followers
+82843099,Securitas_Group,Securitas,5852,"5,852 followers"
+61212645,OneCarlyle,The Carlyle Group,35795,35.8K followers
+159153710,DP_World,DP World,98672,98.7K followers
+545087869,BootsUK,Boots UK,161774,162K followers
+18572345,officedepot,Office Depot,94776,94.8K followers
+297313236,KPMG_Ireland,KPMG Ireland,8043,"8,043 followers"
+299807811,NISSAN_MX,Nissan Mexico,590318,590K followers
+2789516408,MarelliTech,Marelli,7058,"7,058 followers"
+605252309,damacofficial,Damac Properties,23296,23.3K followers
+130282005,DisneyABCTV,Walt Disney Television,13598,13.6K followers
+62622531,Emerson_news,Emerson Electric,18929,18.9K followers
+80590201,WarnerBrosIta,"WarnerMedia Italy, Spain & Portugal",180437,180K followers
+226493139,mtnghana,MTN Ghana,337269,337K followers
+26191233,rackspace,Rackspace Technology,109779,110K followers
+20593909,MeliaHotelsInt,Meli� Hotels,63519,63.5K followers
+19730826,bechtel,Bechtel,46859,46.9K followers
+13192972,alaskaair,Alaska Air,380593,381K followers
+1320860480,PrudentialBYC,Prudential Financial,0,0 followers
+317111083,dunelmUK,Dunelm,39484,39.5K followers
+3208554711,bass_pro_shops,Bass Pro Shops,62,62 followers
+882891427,LPL,LPL Financial,23072,23.1K followers
+46511103,baxter_intl,Baxter International,14793,14.8K followers
+155949831,HUGOBOSS,Hugo Boss,690516,691K followers
+58458203,MAN_Group,MAN Truck & Bus,20480,20.5K followers
+15880163,Razer,Razer,3391630,3.39M followers
+52393483,kpmguk,KPMG UK,62319,62.3K followers
+501801749,BCG,BCG,426999,427K followers
+249203600,bathbodyworks,Bath and Body Works,297009,297K followers
+114933434,EpsonJP,Seiko Epson,9276,"9,276 followers"
+89160109,bnpp_cardif,BNP Paribas Cardif,6842,"6,842 followers"
+16681540,tsystemsCom,T-Systems,6385,"6,385 followers"
+102392496,Opel,Opel,100763,101K followers
+20626359,VirginAtlantic,Virgin Atlantic Airways,631645,632K followers
+65268724,ChangiAirport,Changi Airport,106879,107K followers
+481191505,AllianzGI_DE,Allianz Global Investors,1639,"1,639 followers"
+22061951,DiscoveryIncTV,Discovery Inc,114522,115K followers
+14336163,quickenloans,Quicken Loans,44980,45K followers
+331908924,Blizzard_Ent,Blizzard Entertainment,1395850,1.4M followers
+162439126,Merlin_HR,Merlin Entertainments,2741,"2,741 followers"
+109316621,accenturespain,Accenture Spain,19087,19.1K followers
+56692087,arcadisglobal,Arcadis,13367,13.4K followers
+1549668462,Temasek,Temasek,28025,28K followers
+436719110,VINCI_fr,Vinci,11003,11K followers
+20823928,heathrowairport,Heathrow Airport,527608,528K followers
+506071937,AlseaIDC,Alsea,719,719 followers
+237771322,SunLife,Sun Life Financial,24297,24.3K followers
+14574763,Vodacom,Vodacom,476624,477K followers
+156646851,vestas,Vestas,48694,48.7K followers
+61193820,CarrefourFrance,Carrefour France,102498,102K followers
+205452984,santandermx,Santander Mexico,301775,302K followers
+4568979016,DWS_Group,DWS,5778,"5,778 followers"
+360041082,ab_insights,AB Global,22632,22.6K followers
+350862570,KotakBankLtd,Kotak Mahindra Bank,267723,268K followers
+58458203,man_group,MAN,20480,20.5K followers
+256225105,cardinalhealth,Cardinal Health,16544,16.5K followers
+67339136,arupgroup,Arup Group,99818,99.8K followers
+45798009,farfetch,Farfetch,108119,108K followers
+9980072,bancosabadell,Banco de Sabadell,49661,49.7K followers
+402034870,ca_europe,C&A,78328,78.3K followers
+31481121,AcmeBrick,Acme Brick Company,894,894 followers
+313827679,foncia,Foncia,6352,"6,352 followers"
+63253045,MonsterEnergy,Monster Beverage,3061205,3.06M followers
+59553554,wendys,Wendy's Group,3733130,3.73M followers
+16101626,wayfair,Wayfair,77991,78K followers
+134797500,AXADeutschland,Axa Konzern,1541,"1,541 followers"
+47309459,a1telekom,A1 Telekom Austria,22343,22.3K followers
+255766976,PepsiCoMex,Pepsico Mexico,38904,38.9K followers
+16557431,bouyguestelecom,Bouygues Telecom,175183,175K followers
+72568426,versace,Versace,4897368,4.9M followers
+249548988,dsm,DSM,68408,68.4K followers
+40927173,Yankees,New York Yankees,3461503,3.46M followers
+300140459,KnorrBremseAG,Knorr-Bremse,541,541 followers
+51656832,AEGworldwide,Anschutz Entertainment Group,18092,18.1K followers
+2676313880,RevolutApp,Revolut,227354,227K followers
+85591450,APMTerminals,APM Terminals,21055,21.1K followers
+176396711,DangoteGroup,Dangote Group,292649,293K followers
+720666014,vw_france,Volkswagen Group France,151565,152K followers
+74594552,AppStore,Apple Marketing,4542983,4.54M followers
+15766070,servicenow,ServiceNow,35775,35.8K followers
+133202523,CapitecBankSA,Capitec Bank,238436,238K followers
+305613248,orbia,Orbia,3514,"3,514 followers"
+79592613,corsairfr,Corsair Airline,8977,"8,977 followers"
+65457124,Corning,Corning,30287,30.3K followers
+1367531,FoxNews,Fox News Media,20021118,20M followers
+29944465,UBAGroup,United Bank for Africa,813371,813K followers
+31957731,autodesk,Autodesk,286626,287K followers
+152772504,Edenred,Edenred,4906,"4,906 followers"
+356108010,TA_Group,A1 Telekom Austria Group,2388,"2,388 followers"
+126452178,VWGoA,Volkswagen Group�of America,1488,"1,488 followers"
+3407370119,zimmer,Zimmer Biomet,41,41 followers
+245697549,enjoyGLOBE,Globe Telecom,1595377,1.6M followers
+166927629,man_e_s,MAN Energy Solutions,6699,"6,699 followers"
+91319411,osramCOM,Osram,21632,21.6K followers
+15162193,nordstrom,Nordstrom,717549,718K followers
+70773415,digicelgroup,Digicel Group,8944,"8,944 followers"

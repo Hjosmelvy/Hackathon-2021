@@ -1,0 +1,924 @@
+ID,Company_Name,Twitter_Account
+1,Amazon.com,Amazon
+2,Tesla,tesla
+3,Apple,apple
+4,Nike,Nike
+5,Express Scripts,null
+6,Microsoft,Microsoft
+7,Facebook,facebook
+8,Kanetix,Kanetix
+9,Netflix,netflix
+10,The Walt Disney Company,Disney
+11,BMW,bmw
+12,Volkswagen,null
+13,Google,Google
+14,Starbucks,Starbucks
+15,Uber,uber
+16,Adidas Group,adidasGroupblog
+17,Chanel,CHANEL
+18,Nestl�,Nestle
+19,Siemens,siemens
+20,Liquid Web,LiquidWeb
+21,IBM,IBM
+22,Sony,sony_jpn
+23,JPMorgan Chase,Chase
+24,Stellantis,Stellantis
+25,Ikea,IKEANederland
+26,Intel,null
+27,Johnson & Johnson,JNJNews
+28,Pfizer,pfizer
+29,Marriott International,MarriottIntl
+30,Airbus,AirbusGroup
+31,Unilever,Unilever
+32,Ford Motor,Ford
+33,Samsung Electronics,samsungtomorrow
+34,AT&T,ATT
+35,L'Or�al,Loreal
+36,Thales,thalesgroup
+37,Accenture,accenture
+38,LVMH,LVMH
+39,Pepsico,PepsiCo
+40,Publicis Health Media,PHM_Moments
+41,Royal Dutch Shell,shell
+42,Coca-Cola,CocaCola
+43,SpaceX,spacex
+44,HSBC,null
+45,Wells Fargo,WellsFargo
+46,Alibaba Group,AlibabaTalk
+47,P&G,ProcterGamble
+48,Mercedes-Benz,MercedesBenz
+49,H&M,hm
+50,Airbnb,null
+51,McDonald's,McDonalds
+52,Bosch,null
+53,Carrefour,CarrefourFrance
+54,Cisco,Cisco
+55,Audi,Audi_Online
+56,GE,generalelectric
+57,Danone,DanoneGroup
+58,Boeing,Boeing
+59,Salesforce.com,salesforce
+60,Spotify,Spotify
+61,Walmart,Walmart
+62,Roche,roche
+63,Alphabet Inc,Google
+64,BBC,BBC
+65,Sanofi,SanofiFR
+66,Inditex,null
+67,GM,GM
+68,Oracle,oracle
+69,Dell Technologies,Dell
+70,Decathlon,null
+71,Huawei Technologies,Huawei
+72,Citigroup,citi
+73,Philips,Philips
+74,BP,BP_plc
+75,Deutsche Bank,DeutscheBank
+76,ExxonMobil,exxonmobil
+77,Infosys,Infosys
+78,UPS,UPS
+79,Zywave,zywave
+80,Shopee,null
+81,Orange,Orange_France
+82,Toyota Motor,toyota
+83,Groupe Christian Dior,Dior
+84,FedEx,FedExHelp
+85,Costco Wholesale,null
+86,American Express,AmericanExpress
+87,Nintendo,NintendoAmerica
+88,Louis Vuitton,LouisVuitton_FR
+89,Vodafone Group,VodafoneGroup
+90,Nissan Motor,NissanMotorCo
+91,AccorHotels,null
+92,GSK,gsk
+93,Capgemini,Capgemini
+94,PayPal,PayPal
+95,Marks and Spencer Group,marksandspencer
+96,Ferrero,FerreroRocherIT
+97,Daimler,Daimler
+98,Renault,Groupe_Renault
+99,BNP Paribas,BNPParibas_com
+100,Sephora,sephora
+101,Lego,LEGO_Group
+102,Bank of America,BofA_News
+103,Delta Air Lines,delta
+104,Asos,asos
+105,ABB,ABBgroupnews
+106,Zara,ZARA
+107,Gucci,gucci
+108,Zalando,zalando
+109,Mondelez International,MDLZ_BR
+110,AstraZeneca,AstraZeneca
+111,AB InBev,ABInBevNews
+112,Amazon Web Services,awscloud
+113,3M,3MNews
+114,Nokia,nokia
+115,Instagram,instagram
+116,Schneider Electric,SchneiderElec
+117,Tata Consultancy Services,TCS_News
+118,Axa,AXA
+119,Engie,ENGIEgroup
+120,Novartis,Novartis
+121,American Airlines,americanair
+122,Aecom,AECOM
+123,Allianz SE,Allianz
+124,CVS Health,cvshealth
+125,Grab,null
+126,Bayer,null
+127,Hilton Worldwide,HiltonWorldwide
+128,Wipro,Wipro
+129,Sainsbury's,SainsburysPR
+130,Honda Motor,Honda
+131,HP Inc.,HP
+132,AMD,amd
+133,CMA CGM,CMA_CGM_Group
+134,Nvidia,nvidia
+135,Mars,Marsglobal
+136,TikTok,null
+137,Hewlett Packard Enterprise,null
+138,Activision Blizzard,atvibliz
+139,Red Bull,redbullAustria
+140,KPMG,kpmg
+141,Abbott,AbbottNews
+142,SAP,SAP
+143,Domino's Pizza,dominos
+144,Home Depot,HomeDepot
+145,Altia,null
+146,JD Sports Fashion,jdsportsfashion
+147,Colgate-Palmolive,OpticWhite
+148,Burberry,Burberry
+149,Lenovo,lenovo
+150,Honeywell,honeywell
+151,Porsche AG,Porsche
+152,WarnerMedia Studios & Networks Group,Warnerbrosent
+153,Diageo,Diageo_News
+154,Goldman Sachs,goldmansachs
+155,LG Electronics,LGUS
+156,Michelin,MichelinTyres
+157,Total,Total
+158,BT Group,bt_uk
+159,Estee Lauder Companies,EsteeLauder
+160,Dyson,Dyson
+161,Sun Pharma,null
+162,Blackstone Group,blackstone
+163,WarnerMedia,WarnerMediaGrp
+164,Credit Suisse,creditsuisse
+165,Tata Motors,TataMotors
+166,EY,EYnews
+167,YouTube,YouTube
+168,WPP Group,WPP
+169,Ubisoft Entertainment,ubisoft
+170,Philip Morris International,PMI_PressOffice
+171,Zoom Video Communications,zoom_us
+172,Deutsche Telekom,deutschetelekom
+173,NBA,NBA
+174,Air France KLM,AFKL
+175,Adobe,Adobe
+176,Intercontinental Hotels Group,ihg
+177,Societe Generale,societegenerale
+178,USAA,USAA
+179,John Deere,JohnDeere
+180,Zurich Insurance Group,Zurich
+181,HEB Grocery Company,heb
+182,Crossmark,null
+183,Xiaomi,xiaomi
+184,IBM Japan,IBM_JAPAN
+185,Twitter,twitter
+186,Jollibee Foods,iwantjollibee
+187,BlackRock,blackrock
+188,Naval Group,navalgroup
+189,EasyJet,easyJet
+190,Lockheed Martin,lockheedmartin
+191,Merck,merck
+192,CBRE Group,CBRE
+193,Ryanair,Ryanair
+194,Medtronic,Medtronic
+195,Riot Games,riotgames
+196,Verizon,null
+197,America Movil,americamovil
+198,Puma,puma
+199,Amazon France,amazon
+200,Petronas,Petronasbrands
+201,Lufthansa,lufthansa
+202,7-Eleven Malaysia,7ElevenMy
+203,eBay,ebay
+204,Magna International,MagnaInt
+205,EDF,EDFofficiel
+206,Uniqlo,UniqloUSA
+207,ArcelorMittal,arcelormittal
+208,Heineken,HEINEKENCorp
+209,Safran,SAFRAN
+210,Kellogg,KelloggCompany
+211,AbbVie,abbvie
+212,Primark,Primark
+213,Flipkart.com,Flipkart
+214,Aramco,Saudi_Aramco
+215,Chevron,Chevron
+216,UnitedHealth Group,UnitedHealthGrp
+217,Reckitt Benckiser,discoverRB
+218,CNN,CNN
+219,Target,target
+220,Capital One Financial,capitalone
+221,TUI Group,TUIGroup
+222,Visa,VisaNews
+223,Marvel Entertainment,Marvel
+224,Scotiabank,scotiabank
+225,Rappi,RappiColombia
+226,Kraft Heinz,hjheinzcompany
+227,Universal Music Group,umg
+228,MasterCard,MasterCard
+229,T-Mobile,TMobileHelp
+230,PwC,pwc_llp
+231,Alstom,null
+232,Barclays,Barclays
+233,Hyatt,HyattsofChicago
+234,British American Tobacco,BATPress
+235,Publicis Groupe,publicisgroupe
+236,Sony Music Entertainment,SonyMusicGlobal
+237,Hermes,null
+238,HDFC Bank,Hdfc_Bank
+239,Linkedin,LinkedIn
+240,AIG,AIGinsurance
+241,Four Seasons Hotels and Resorts,fourseasons
+242,UBS,UBS
+243,BASF,basf
+244,Faurecia,Faurecia
+245,Qualcomm,qualcomm
+246,Siemens Gamesa Renewable Energy,Gamesa_Official
+247,Maxis,MaxisListens
+248,Sodexo,SodexoGroup
+249,Disneyland Paris,Disney_ParisEN
+250,Morgan Stanley,MorganStanley
+251,Merck KGaA,merckgroup
+252,Tesco,tesco
+253,Thermo Fisher Scientific,servingscience
+254,Santander,bancosantander
+255,Singapore Airlines,singaporeair
+256,Qatar Airways,qatarairways
+257,Groupe La Poste,lisalaposte
+258,RBC,RBC
+259,Mahindra & Mahindra,MahindraRise
+260,BHP Group,null
+261,Sky,SkyNews
+262,Levi Strauss & Co,LeviStraussCo
+263,ABC News,ABC
+264,Air Canada,aircanada
+265,Raytheon Technologies,RaytheonTech
+266,Caterpillar,caterpillarinc
+267,Lamborghini,lamborghini
+268,Nubank,nubankbrasil
+269,Ineos,INEOS
+270,Atos,atos
+271,Natura & Co,Naturacosmetica
+272,Comcast,comcast
+273,Maersk,Maersk
+274,Henkel AG & Co.,Henkel
+275,Gilead Sciences,GileadSciences
+276,MAC Cosmetics,MACcosmetics
+277,Byju's,null
+278,Malaysia Airlines,MAS
+279,Reliance Industries,null
+280,Allianz Technology,Allianz_Tech
+281,DBS Group,dbsbank
+282,Ralph Lauren,RalphLauren
+283,Aviva,avivaplc
+284,Panasonic,panasonic
+285,Valeo,Valeo_Group
+286,Glovo,Glovo_ES
+287,Afry,AFkarriar
+288,Mattel,Mattel
+289,AirAsia Berhad,AirAsia
+290,Loblaw Companies,LoblawsON
+291,Fidelity,Fidelity
+292,Kia Motors,Kia_Korea
+293,Tech Mahindra,Tech_Mahindra
+294,Glencore,glencorexstrata
+295,Unibail-Rodamco-Westfield,urw_group
+296,Standard Chartered,stanchart
+297,ANZ Bank,ANZ_Newsroom
+298,Amundi,Amundi_FR
+299,Telekom Malaysia,tmconnects
+300,Lazada Group,LazadaMY
+301,Under Armour,UnderArmour
+302,Lidl,lidl
+303,Nestl� Malaysia,Nestle
+304,Rio Tinto,riotinto
+305,Expedia Group,Expedia
+306,The Hershey Company,hersheys
+307,Bridgestone,Bridgestone
+308,Commonwealth Bank,commbank
+309,EDF Energy,edfenergy
+310,AmBev,ambevbrasil
+311,Hindustan Unilever,HUL_News
+312,Adecco Group,AdeccoGroup
+313,Cognizant,cognizant
+314,Teleperformance,Teleperformance
+315,Veolia,veolia
+316,Victoria's Secret,victoriassecret
+317,Schlumberger,null
+318,ING,ing_news
+319,Ferrari,null
+320,The Walt Disney Studios,DisneyPictures
+321,Genting Malaysia,GentingMalaysia
+322,Ceva Logistics,cevalogistics
+323,Commerzbank,commerzbank
+324,Cargill,Cargill
+325,Best Buy,BestBuy
+326,Bombardier,Bombardier
+327,Asus,ASUSPressRoom
+328,Amway,amwayus
+329,GoJek,gojekindonesia
+330,Aston Martin,astonmartin
+331,AIA Group,AIAGroupLimited
+332,Vans,VANS_66
+333,Eli Lilly,null
+334,Forever 21,Forever21
+335,ViacomCBS,viacom
+336,JetBlue,jetblue
+337,Kroger,KrogerCo
+338,OCBC Bank,ocbcbank
+339,BNY Mellon,bnymellon
+340,Pizza Hut,pizzahut
+341,Bentley Motors,BentleyMotors
+342,Saint-Gobain,SaintGobainNews
+343,Rolls-Royce Group,RollsRoyceNews
+344,Warner Music Group,warnermusic
+345,Oppo,oppo
+346,New York Times Company,nytimes
+347,Paytm,paytm
+348,Kering,KeringGroup
+349,EA - Electronic Arts,EA
+350,Allstate,Allstate
+351,Seat,tuSEAT
+352,Colruyt,colruyt
+353,Pos Malaysia,pos4you
+354,Deloitte US,DeloitteFrance
+355,Lacoste,lacoste
+356,Orange Business Services,orangebusiness
+357,Avon Products,avonworldwide
+358,Gap,GapInc
+359,VMware,VMware
+360,Deutsche Post DHL,DeutschePostDHL
+361,Liverpool FC,lfc
+362,Lloyds Banking Group,lloydsbankinggp
+363,Kimberly-Clark,KCCorp
+364,Iqvia,IQVIA_global
+365,Chick-fil-A,ChickfilA
+366,Lowe's Companies,lowes
+367,Baker Hughes,BHInc
+368,Bristol-Myers Squibb,bmsnews
+369,Booking.com,bookingcom
+370,About You,ABOUTYOUDE
+371,Marvel Studios,MarvelStudios
+372,Bharti Airtel,airtelindia
+373,Ecobank,GroupEcobank
+374,Aramark,ARAMARK
+375,Aon,Aon_plc
+376,KFC,kfc
+377,ADNOC,null
+378,Johnson Controls,johnsoncontrols
+379,Royal Caribbean Group,royalcaribbean
+380,DXC Technology,DXCTechnology
+381,ADP,adp
+382,Kaiser Permanente,KPShare
+383,BD,BDandCo
+384,HCA,hcahealthcare
+385,Richemont,Richemont_SA
+386,Allianz France,allianzfrance
+387,Jaguar Land Rover,landrover
+388,Celcom Axiata,null
+389,Ericsson,ericsson
+390,WhatsApp,WhatsApp
+391,Comparethemarket.com,comparethemkt
+392,Halliburton,Halliburton
+393,Airbus Defence & Space,AirbusDS
+394,The Body Shop,TheBodyShopIND
+395,Alptis,alptis
+396,Whole Foods Market,wholefoods
+397,Mercadolibre,Mercadolibre
+398,State Farm,StateFarm
+399,JTC Corporation,jtccorp
+400,Northrop Grumman,NorthropGrumman
+401,Ricoh,RicohJapan
+402,Morrisons,Morrisons
+403,OYO Rooms,oyorooms
+404,LafargeHolcim,LafargeHolcim
+405,TDCX,TeledirectGroup
+406,Lazada Philippines,LazadaPH
+407,Fnac Darty,fnac
+408,Pixar Animation Studios,disneypixar
+409,MTN,MTNGroup
+410,Baskin-Robbins,baskinrobbins
+411,Dick's Sporting Goods,dicks
+412,Eaton,eatoncorp
+413,Suez,suezenv
+414,Green Energy,thesmartgrid
+415,Nestl� Nespresso,Nespresso
+416,Anthem,WellPoint
+417,Whirlpool,WhirlpoolCorp
+418,Walgreens Boots Alliance,AllianceBoots
+419,MetLife,MetLife
+420,Emirates Airline,emirates
+421,Altran,Altran
+422,John Lewis Partnership,johnlewisretail
+423,Natixis,Natixis_com
+424,British Airways,british_airways
+425,Ahold Delhaize,null
+426,Twitch,twitch
+427,Waitrose & Partners,waitrose
+428,Tupperware Brands,tupperwareww
+429,Anglo American,AngloAmericanBR
+430,TalkTalk Telecom Group,talktalk_uk
+431,Tiffany & Co,TiffanyAndCo
+432,Philippine National Bank,PhilNaBank
+433,ESPN,espn
+434,BMO Financial Group,bmo
+435,Adani,AdaniOnline
+436,Fiserv,fiserv
+437,NBCUniversal,NBCUniversal
+438,Kuehne+Nagel,knlogistics
+439,Air Liquide,AirLiquidenergy
+440,Amgen,amgen
+441,ACS Group,GRUPOACSnews
+442,Coty,cotythecompany
+443,Cigna,cigna
+444,Ogilvy,Ogilvy
+445,Aetna,Aetna
+446,JLL,jllnews
+447,International Airlines Group - IAG,null
+448,United Airlines,united
+449,Axa IM,axaim
+450,HCL Technologies,hcltech
+451,Fluor,fluorcorp
+452,A.S. Watson Group,leveranciersASW
+453,ABN Amro,abnamro
+454,XPO Logistics,XPOLogistics
+455,Allianz Australia,allianz_au
+456,Amadeus,AmadeusITGroup
+457,Macy's,Macys
+458,Deliveroo,Deliveroo
+459,Infineon Technologies,Infineon
+460,HSBC Continental Europe,HSBC_Press
+461,Etisalat,etisalat
+462,BBVA - Banco Bilbao Vizcaya Argentaria,bbva
+463,Korn Ferry,Korn_Ferry
+464,Credit Agricole,credit_agricole
+465,UberEats,null
+466,The Trump Organization,Trump
+467,Philippine Airlines,flyPAL
+468,Danaher,danaher_u
+469,Boohoo,boohoo
+470,Bershka,Bershka
+471,Adeo,adeogroup
+472,Grupo Lala,SomosLala
+473,Collins Aerospace,rockwellcollins
+474,Gazprom,null
+475,Geico,geico
+476,Blue Apron,blueapron
+477,Walmart de Mexico and Central America,WalmartMexico
+478,Hasbro,HasbroNews
+479,Yamaha Motor,YamahaMotoGP
+480,General Mills,generalmills
+481,Orange Spain,orange_es
+482,GE Healthcare,gehealthcare
+483,Westpac Group,westpac
+484,Apollo Global Management,apolloglobal
+485,Tyson Foods,tysonfoods
+486,Canon,Canon_Camera
+487,Emaar,null
+488,La Banque Postale,labanquepostale
+489,Club Med,ClubMedFR
+490,Manulife,null
+491,Bed Bath & Beyond,bedbathbeyond
+492,US Bank,usbank
+493,Absa,AbsaSouthAfrica
+494,Texas Instruments,txinstruments
+495,SGS,SGS_SA
+496,Abercrombie & Fitch,abercrombie
+497,TopTarif,toptarif
+498,Amcor,amcorpackaging
+499,Patagonia,patagonia
+500,Walt Disney World,WaltDisneyWorld
+501,Aditya Birla Group,adityabirlagrp
+502,Yes Bank,yesbank
+503,Telmex - Telefonos de Mexico,telmex
+504,Hyundai Motor,Hyundai_Global
+505,Mazda Motor,Mazda_PR
+506,Volvo,volvocarsglobal
+507,"Disney Parks, Experiences and Products",null
+508,RHB Banking Group,RHBGroup
+509,Cemex,cemex
+510,Royal Mail,royalmailgroup
+511,Sime Darby,null
+512,DuPont,DuPont_News
+513,Viatris,MylanNews
+514,Telstra Corporation,telstra
+515,Groupe ADP,AeroportsParis
+516,E.ON,EONEnergie
+517,Bunnings,bunnings
+518,Siemens Healthineers,SiemensHealth
+519,Axa XL,AXA_XL
+520,ThyssenKrupp,thyssenkrupp_pr
+521,CitiBanamex,banamex
+522,Grupo Carso,Grupo_Carso
+523,Continental,Conti_Press
+524,Comenity Capital Bank,askcomenity
+525,Southwest Airlines,SouthwestAir
+526,ArianeGroup,ArianeGroup
+527,Canal+,canalplus
+528,Firmenich,firmenich
+529,Airbus Helicopters,AirbusHC
+530,Proton,protonmsia
+531,Chewy,null
+532,Calvin Klein,CalvinKlein
+533,Zoetis,zoetis
+534,The We Company,WeWork
+535,Janssen,null
+536,Deutsche Bahn,db_press
+537,Volkswagen Mexico,VolkswagenMX
+538,Santander UK,ASWO
+539,Aptiv,aptiv
+540,Syngenta,SyngentaUS
+541,The Ritz-Carlton Hotel Company,ritzcarlton
+542,Optum,optumnews
+543,Zenith Hygiene Group,null
+544,ABS CBN,ABSCBNNews
+545,Pernod Ricard,Pernod_Ricard
+546,TechnipFMC,TechnipFMC
+547,Idemia,IdemiaGroup
+548,Vi,ViCustomerCare
+549,Coca-Cola Femsa,FEMSA
+550,Audi Mexico,AudideMexico
+551,Accenture France & Benelux,AccentureFrance
+552,Tata Group,TataCompanies
+553,Farmers Insurance Group,wearefarmers
+554,Tata Steel,Tatasteelltd
+555,Wegmans Food Markets,wegmans
+556,Vitamin Shoppe,VitaminShoppe
+557,BCE,BellEnterprise
+558,McKesson,McKesson
+559,HCSC,hcsc
+560,Axis Bank,axisbank
+561,Emirates NBD,EmiratesNBD
+562,Sony Interactive Entertainment,playstation
+563,Lululemon Athletica,lululemon
+564,Standard Bank,standardbankgrp
+565,Grupo Televisa,TelevisaDotCom
+566,CGI Group,CGI_Global
+567,Viking River Cruises,VikingRiver
+568,Logitech,Logitech
+569,Hulu,hulu
+570,Asda,asda
+571,Ashok Leyland,ALIndiaOfficial
+572,SM Entertainment,SMTOWNGLOBAL
+573,Zappos,zapposstyle
+574,STMicroelectronics,st_world
+575,Beiersdorf,Beiersdorf_AG
+576,CNH Industrial,CNHIndustrial
+577,CIMB,null
+578,Novo Nordisk,novonordisk
+579,NetXP,null
+580,Sysco,Sysco
+581,Harley-Davidson,harleydavidson
+582,Tag Heuer,TAGHeuer
+583,ICICI Bank,ICICIBank_Care
+584,Kantar,Kantar
+585,Jabil,Jabil
+586,Microsoft Australia,MSAU
+587,Smurfit Kappa Group,smurfitkappa
+588,HBL - Habib Bank,null
+589,Biogen,biogen
+590,Tecnicas Reunidas,null
+591,Air France,AirFranceFR
+592,Foot Locker,footlocker
+593,Genpact,genpact_ltd
+594,Nasdaq,null
+595,Falabella,Falabella_co
+596,DSV Global Transport and Logistics,null
+597,Ethiopian Airlines,flyethiopian
+598,Akka Technologies,AkkaTechnologie
+599,Nielsen Company,Nielsen
+600,CIBC,cibc
+601,JC Penney,jcpenney
+602,Accenture India,accentureindia
+603,Xerox,Xerox
+604,Vale,valeglobal
+605,Bureau Veritas,_BureauVeritas
+606,Natwest Group,NatWestGroup
+607,Telcel,Telcel
+608,Thomson Reuters,thomsonreuters
+609,�koda Auto,skodaweb
+610,Copa Airlines,copaairlines
+611,Bayern Munich,FCBayern
+612,Denso,DENSOAutoParts
+613,Lindt & Sprungli,Lindt
+614,Disney International Operations,null
+615,Boehringer Ingelheim,boehringer
+616,Aeromexico,aeromexico
+617,SNCF,Clt_VoyagesSncf
+618,Swiss Re,SwissRe
+619,PNC Financial Services,pncnews
+620,Western Union,WesternUnion
+621,Epic Games,EpicGames
+622,Caixabank,AccionistasCABK
+623,Stanley Black & Decker,StanleyBlkDeckr
+624,Navy Federal Credit Union,NavyFederal
+625,Pearson,pearsonplc
+626,Acciona,ACCIONA
+627,Allianz Malaysia,null
+628,TD Bank,TDBank_US
+629,Cr�dit Agricole CIB,CA_CIB
+630,LATAM Airlines,ClubMedFR
+631,Bloomberg,bloombergnews
+632,Fenty Beauty,fentybeauty
+633,Ashley HomeStore,ShopAshley
+634,McKinsey & Company,McKinsey
+635,Sonepar,Sonepar_IDF
+636,PPG Industries,PPGIndustries
+637,Deloitte Global,deloitte
+638,Western Digital,westerndigital
+639,Barrick Gold,BarrickGold
+640,Accountor,null
+641,Access Bank,myaccessbank
+642,Yves Rocher,YvesRocherFR
+643,Olympus,getolympus
+644,Tommy Hilfiger,tommyhilfiger
+645,CNP Assurances,null
+646,Humana,humana
+647,Coles Group,Coles
+648,Chubb,Chubb
+649,Proximus,null
+650,Rooms To Go,RoomsToGo
+651,Micron Technology,micronjobs
+652,Motorola Solutions,MotoSolutions
+653,Converse,converse
+654,L3Harris,L3HarrisTech
+655,Ecolab,Ecolab
+656,Endesa,EndesaClientes
+657,Autoliv,AutolivInc
+658,KKR,KKR_Co
+659,Santander Brazil,santander_br
+660,Microsoft Azure,Azure
+661,Allianz Ireland,AllianzIreland
+662,Fifth Third Bank,fifththird
+663,BAE Systems,BAESystemsInc
+664,LCL,LCL
+665,Jacobs Engineering,JacobsEngineers
+666,Lazard,lazardltd
+667,Bugatti,Bugatti
+668,Sam's Club,samsclub
+669,AMP,AMP_au
+670,Ikea France,IKEA_France
+671,Dow,DowChemical
+672,National Australia Bank,NAB
+673,Walmart Canada,WalmartCanada
+674,Willis Towers Watson,WTWcorporate
+675,ADT,ADTstaysafe
+676,Truist,askbbt
+677,Agilyx,agilyx
+678,Atlas Copco,AtlasCopcoGroup
+679,Xbox,Xbox
+680,AkzoNobel,AkzoNobel
+681,IBM France,IBM_France
+682,Safaricom,SafaricomLtd
+683,Otis Elevator,OtisElevatorCo
+684,Coca-Cola European Partners,CokeCCE
+685,Ant Group,antfinancial
+686,Charter Communications,charter
+687,Concentrix,Concentrix
+688,Sephora USA,sephora
+689,Legal & General Group,landg_business
+690,Scania,ScaniaGroup
+691,Banorte,Banorte_mx
+692,7-Eleven US,7eleven
+693,Carnival,null
+694,Rolex,Rolex_Official
+695,Flex,flextronics
+696,Broadcom,Avagotech
+697,General Dynamics,GDC4Systems
+698,Workday,workday
+699,Asics,MYASICS_jp
+700,Herbalife Nutrition,Herbalife
+701,Alliance Renault-Nissan-Mitsubishi,Alliance2022
+702,Virgin Media,virginmedia
+703,Accenture Interactive,accenturesocial
+704,Monoprix,Monoprix
+705,Tim Hortons,TimHortons
+706,Aludyne,null
+707,ManpowerGroup,ManpowerGroupJJ
+708,FedEx Express,fedex
+709,Qantas Airways,Qantasairways
+710,HelloFresh,HelloFresh
+711,Allianz Germany,allianz_de
+712,Avanade,null
+713,Dell EMC,EMCcorp
+714,Urban Outfitters,urbn_scout
+715,Leroy Merlin France,leroymerlinfr
+716,Subway,subway
+717,LendingClub,LendingClub
+718,ByteDance,null
+719,Air New Zealand,flyairnz
+720,Indra,indracompany
+721,Meilleurtaux,Meilleurtauxcom
+722,Mandarin Oriental,MO_HOTELS
+723,Mainfreight,MainfreightLtd
+724,Archer Daniels Midland,ADMupdates
+725,Canadian Tire,canadiantire
+726,Yamaha,yamaha_ongakubu
+727,Kiewit,kiewit
+728,NNPC,nnpcgroup
+729,Pull&Bear,pullandbear
+730,Munich Re,MunichRe
+731,Linde,The_Linde_Group
+732,Shopify,shopify
+733,Prada,prada
+734,ARM,ARMCommunity
+735,Solvay,SolvayGroup
+736,Vopak,Vopak_Nederland
+737,AG2R La Mondiale,null
+738,Lidl France,lidlfrance
+739,HSBC Bank Mexico,null
+740,Marina Bay Sands,marinabaysands
+741,Cummins,Cummins
+742,Aviva Canada,AvivaCanada
+743,Agco,AGCOcorp
+744,ZF Friedrichshafen,ZF_Group
+745,State Street,StateStreet
+746,Action Logement,actionlogement
+747,The North Face,thenorthface
+748,Tanesco,TANESCO_
+749,Swarovski Group,swarovski
+750,Google France,google
+751,Petroleum Development Oman,null
+752,Euler Hermes,eulerhermes
+753,Neptune Wellness Solutions,Neptune_corp
+754,Myntra,myntra
+755,UOB,null
+756,OkCupid,okcupid
+757,Atento,null
+758,Embraer,embraersa
+759,FIS,FISGlobal
+760,DPD,DPDgroup_news
+761,Veon,null
+762,Aer Lingus,AerLingus
+763,Zenith Bank,null
+764,AutoZone,autozone
+765,Faurecia Clarion Electronics,ClarionUSA
+766,Toyota Motor North America,toyota
+767,El Puerto de Liverpool,liverpoolmexico
+768,Sopra Steria Group,soprarh
+769,Ben & Jerry,benandjerrys
+770,Allied Universal,null
+771,Microsoft Europe,MicrosoftEU
+772,MSC Group,null
+773,Acer,acer
+774,Porsche SE,null
+775,Sherwin-Williams,SherwinWilliams
+776,Veepee,venteprivee_fr
+777,Trivago,null
+778,Eurofins,eurofins
+779,Snap Inc,snap
+780,Vodafone Germany,vodafone_de
+781,Meijer,meijer
+782,Ace Hardware,acehardware
+783,Dentsu International,dentsuaegis
+784,Fresenius Medical Care,null
+785,Bacardi,BacardiLtdComms
+786,Marsh & McLennan Companies - MMC,null
+787,Scor,SCOR_SE
+788,Telus,TELUS
+789,Edeka Group,null
+790,BPCE,GroupeBPCE
+791,G4S,G4S_UK
+792,Newmont Goldcorp,newmont
+793,Laboratoire Servier,servier
+794,Orange Cote d�Ivoire,CI_Orange
+795,Getafe CF,GetafeCF
+796,Canada Post,canadapostcorp
+797,Taco Bell,tacobell
+798,MGM Resorts International,MGMResortsIntl
+799,Bic,null
+800,Electrolux,Electrolux
+801,Walmart US,Walmart
+802,Aalberts Industries,AalbertsIndustr
+803,FCB,fcbglobal
+804,Rogers Communications,RogersBuzz
+805,Securitas,Securitas_Group
+806,The Carlyle Group,OneCarlyle
+807,DP World,DP_World
+808,Boots UK,BootsUK
+809,Office Depot,officedepot
+810,KPMG Ireland,KPMG_Ireland
+811,Nissan Mexico,NISSAN_MX
+812,Marelli,MarelliTech
+813,Damac Properties,damacofficial
+814,Stryker,Stryker_Jobs
+815,Walt Disney Television,DisneyABCTV
+816,BSH Hausger�te,null
+817,Emerson Electric,Emerson_news
+818,"WarnerMedia Italy, Spain & Portugal",WarnerBrosIta
+819,MTN Ghana,mtnghana
+820,Rackspace Technology,rackspace
+821,Meli� Hotels,MeliaHotelsInt
+822,Bechtel,bechtel
+823,Alaska Air,alaskaair
+824,Prudential Financial,PrudentialBYC
+825,Dunelm,dunelmUK
+826,Bass Pro Shops,bass_pro_shops
+827,LPL Financial,LPL
+828,Baxter International,baxter_intl
+829,San Miguel Corp,null
+830,Volvo Cars,VolvoSverige
+831,Hugo Boss,HUGOBOSS
+832,MAN Truck & Bus,MAN_Group
+833,Razer,Razer
+834,KPMG UK,kpmguk
+835,BCG,BCG
+836,Bath and Body Works,bathbodyworks
+837,Seiko Epson,EpsonJP
+838,BNP Paribas Cardif,bnpp_cardif
+839,T-Systems,tsystemsCom
+840,SP Group,null
+841,Opel,Opel
+842,Virgin Atlantic Airways,VirginAtlantic
+843,Changi Airport,ChangiAirport
+844,Afflelou Group,ALAIN_AFFLELOU_
+845,Allianz Global Investors,AllianzGI_DE
+846,Discovery Inc,DiscoveryIncTV
+847,Quicken Loans,quickenloans
+848,Blizzard Entertainment,Blizzard_Ent
+849,Takeda Pharmaceutical,null
+850,Merlin Entertainments,Merlin_HR
+851,Accenture Spain,accenturespain
+852,Arcadis,arcadisglobal
+853,Apple India,Apple_India
+854,Temasek,Temasek
+855,MAS Holdings,null
+856,Vinci,VINCI_fr
+857,Heathrow Airport,heathrowairport
+858,Alsea,AlseaIDC
+859,Assa Abloy,null
+860,Sun Life Financial,SunLife
+861,Karcher,KaercherGermany
+862,Vodacom,Vodacom
+863,Vestas,vestas
+864,Carrefour France,CarrefourFrance
+865,Santander Mexico,santandermx
+866,DWS,DWS_Group
+867,AB Global,ab_insights
+868,Kotak Mahindra Bank,KotakBankLtd
+869,MAN,man_group
+870,Cardinal Health,cardinalhealth
+871,Arup Group,arupgroup
+872,Farfetch,farfetch
+873,Banco de Sabadell,bancosabadell
+874,C&A,ca_europe
+875,Inetum,gfiinformatique
+876,Acme Brick Company,AcmeBrick
+877,Orano,AREVAus
+878,Geodis,GeodisGroup
+879,Foncia,foncia
+880,Monster Beverage,MonsterEnergy
+881,Wendy's Group,wendys
+882,Wayfair,wayfair
+883,Axa Konzern,AXADeutschland
+884,A1 Telekom Austria,a1telekom
+885,Altus Group,Altus_Group
+886,Pepsico Mexico,PepsiCoMex
+887,Bouygues Telecom,bouyguestelecom
+888,Versace,versace
+889,DSM,dsm
+890,Tereos,Groupe_Tereos
+891,New York Yankees,Yankees
+892,Knorr-Bremse,KnorrBremseAG
+893,Anschutz Entertainment Group,AEGworldwide
+894,Revolut,RevolutApp
+895,APM Terminals,APMTerminals
+896,Top Glove Corporation,null
+897,Dangote Group,DangoteGroup
+898,Volkswagen Group France,vw_france
+899,Apple Marketing,AppStore
+900,ServiceNow,servicenow
+901,Capitec Bank,CapitecBankSA
+902,Orbia,orbia
+903,Corsair Airline,corsairfr
+904,Corning,Corning
+905,Commercial Bank of Ethiopia,null
+906,Clarios,null
+907,Fox News Media,FoxNews
+908,Aliaxis,null
+909,United Bank for Africa,UBAGroup
+910,Autodesk,autodesk
+911,Edenred,Edenred
+912,Prosegur,Prosegur_Es
+913,Allianz Partners,null
+914,A1 Telekom Austria Group,TA_Group
+915,Volkswagen Group�of America,VWGoA
+916,Zimmer Biomet,zimmer
+917,Globe Telecom,enjoyGLOBE
+918,MAN Energy Solutions,man_e_s
+919,Osram,osramCOM
+920,Nordstrom,nordstrom
+921,Digicel Group,digicelgroup
+922,Otto Group,otto_jobs
+923,Zalora,ZALORASingapore
